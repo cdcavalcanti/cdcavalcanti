@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/cdcavalcanti">
-   <img src="https://raw.githubusercontent.com/cdcavalcanti/cdcavalcanti/main/metrics.svg"/>
+   <img height="170em" src="./stats.svg"/>
+   <img height="170em" src="./langs.svg"/>
    </a>
 </div>
     

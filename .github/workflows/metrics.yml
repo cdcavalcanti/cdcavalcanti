@@ -1,22 +1,21 @@
-name: Metrics
+name: Cards do perfil
 on:
   schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
 jobs:
-  github-metrics:
+  cards:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # Precisa de um PAT (classic, escopo "repo") no secret METRICS_TOKEN para contar os repos privados
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, repositories
-          config_timezone: America/Recife
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_ignored: html, css
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      # METRICS_TOKEN: PAT classic com escopo "repo", para contar os repos privados
+      - run: node scripts/cards.mjs
+        env: { GH_TOKEN: "${{ secrets.METRICS_TOKEN }}" }
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg langs.svg
+          git diff --cached --quiet || (git commit -m "Atualiza cards" && git push)
