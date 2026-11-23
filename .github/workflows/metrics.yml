@@ -8,9 +8,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
+      - uses: actions/checkout@v5
       # METRICS_TOKEN: PAT classic com escopo "repo", para contar os repos privados
       - run: node scripts/cards.mjs
         env: { GH_TOKEN: "${{ secrets.METRICS_TOKEN }}" }
