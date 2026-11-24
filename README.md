@@ -1,35 +1,133 @@
-# Bem-vindo(a) ao perfil do Carlos Eduardo 😁
+<div align="center">
 
- <div>
-   <a href="https://github.com/cdcavalcanti">
-   <img height="170em" src="./stats.svg"/>
-   <img height="170em" src="./langs.svg"/>
-   </a>
-</div>
-    
-<div style="display: inline_block"><br>
-  <h2>Tech Stack:</h2><br>
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+```
+ ██████╗██████╗  ██████╗ █████╗ ██╗   ██╗ █████╗ ██╗      ██████╗ █████╗ ███╗   ██╗████████╗██╗
+██╔════╝██╔══██╗██╔════╝██╔══██╗██║   ██║██╔══██╗██║     ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║
+██║     ██║  ██║██║     ███████║██║   ██║███████║██║     ██║     ███████║██╔██╗ ██║   ██║   ██║
+██║     ██║  ██║██║     ██╔══██║╚██╗ ██╔╝██╔══██║██║     ██║     ██╔══██║██║╚██╗██║   ██║   ██║
+╚██████╗██████╔╝╚██████╗██║  ██║ ╚████╔╝ ██║  ██║███████╗╚██████╗██║  ██║██║ ╚████║   ██║   ██║
+ ╚═════╝╚═════╝  ╚═════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝
+```
 
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C8F542&center=true&vCenter=true&width=820&lines=Back-end%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IA;APIs%2C%20integra%C3%A7%C3%B5es%20e%20agentes%20que%20funcionam%20de%20verdade;NestJS%20%C2%B7%20Fastify%20%C2%B7%20Python%20%C2%B7%20PostgreSQL;LLM%20pr%C3%B3pria%20respondendo%20leads%20em%20produ%C3%A7%C3%A3o" alt="Back-end · Automação · IA" />
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-cdcavalcanti.pages.dev-C8F542?style=for-the-badge&labelColor=0A0B0D)](https://cdcavalcanti.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cavalcanti1b3231205/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosedlima4@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583998268191)
+
 </div>
- 
-<br>
- 
-### Para mais contatos me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/cl.edcavalcanti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/904745953863532575" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosedlima4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-cavalcanti-lima-1b3231205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=+5583998268191&text=Olá Carlos Eduardo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
+
+---
+
+## `$ whoami`
+
+```yaml
+nome: Carlos Eduardo Cavalcanti
+local: João Pessoa (PB) · remoto
+foco: back-end, automação e IA
+atual: Analista de automação na IA Infinity
+programando_desde: 2021
+```
+
+Desenvolvedor back-end que junta três coisas: **sistema de gestão, automação e IA**. Escrevo a API, ligo os sistemas e coloco agentes para trabalhar em processos reais. O número vem do banco, a frase vem do modelo, e a resposta não inventa preço.
+
+- 🧠 **IA que não inventa:** RAG preso ao material da empresa, agentes com LangGraph e uma LLM treinada do zero (106 milhões de parâmetros) respondendo leads em produção.
+- ⚙️ **Automação que roda sozinha:** n8n, WhatsApp API e webhooks ligados a qualquer CRM, de mercado ou feito sob medida.
+- 🧱 **Back-end que aguenta produção:** NestJS, Fastify e Python com PostgreSQL, migrations versionadas, filas, permissões por papel e Docker.
+- 🧾 **Motor fiscal brasileiro:** ICMS, ST, DIFAL, PIS/Cofins e já o IBS/CBS da reforma, com NF-e e NFC-e.
+
+---
+
+## `$ ls ~/projetos`
+
+Quase tudo é privado (de clientes ou meu), então cada projeto tem uma **amostra ao vivo** no portfólio, com dados de exemplo.
+
+| Projeto | O que faz | Stack | Amostra |
+|---|---|---|:-:|
+| **Digimob IA** | Atendimento de imobiliária com a LLM própria, em produção | Python · LLM · RAG | [▶ ver](https://cdcavalcanti.pages.dev/p/digimob-ia) |
+| **LLM própria** | Modelo de linguagem treinado do zero, tokenizer BPE próprio | Python · PyTorch | [▶ ver](https://cdcavalcanti.pages.dev/p/llm-propria) |
+| **Agente SDR no WhatsApp** | Qualifica o lead e passa a conversa para um humano | FastAPI · LangGraph | [▶ ver](https://cdcavalcanti.pages.dev/p/agente-sdr) |
+| **Monitoramento de IAs** | Relatório diário: número do código, texto da IA | FastAPI · LangGraph | [▶ ver](https://cdcavalcanti.pages.dev/p/monitoramento-ias) |
+| **ERP e PDV** | Gestão para PMEs com motor fiscal e NF-e | Fastify · PostgreSQL · RLS | [▶ ver](https://cdcavalcanti.pages.dev/p/erp-pdv) |
+| **CRM white-label** | Funil de vendas com WhatsApp, um CRM por cliente | NestJS · Prisma | [▶ ver](https://cdcavalcanti.pages.dev/p/crm-white-label) |
+| **Painéis de gestão** | ETL e data warehouse próprios no lugar de um BI | TypeScript · ETL · Docker | [▶ ver](https://cdcavalcanti.pages.dev/p/paineis-de-gestao) |
+
+---
+
+## `$ cat stack.txt`
+
+<div align="center">
+
+### IA
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A0B0D?style=for-the-badge&logo=elastic&logoColor=C8F542)
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,fastapi&theme=dark" />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase&theme=dark" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Automação e integrações
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0A0B0D?style=for-the-badge&logo=webhooks&logoColor=C8F542)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-0A0B0D?style=for-the-badge&logo=openapiinitiative&logoColor=C8F542)
+
+### Infra
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux / VPS](https://img.shields.io/badge/Linux%20/%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+  <a href="https://github.com/cdcavalcanti">
+    <img height="170em" src="./stats.svg" alt="Estatísticas do GitHub" />
+    <img height="170em" src="./langs.svg" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+**Quer automatizar um processo ou colocar IA para trabalhar de verdade?**
+
+[![Falar comigo](https://img.shields.io/badge/Falar%20comigo-C8F542?style=for-the-badge&logo=whatsapp&logoColor=0A0B0D)](https://wa.me/5583998268191)
+[![Ver portfólio](https://img.shields.io/badge/Ver%20portf%C3%B3lio-0A0B0D?style=for-the-badge&logo=googlechrome&logoColor=C8F542)](https://cdcavalcanti.pages.dev/)
+
+<sub>programando desde 2021 · João Pessoa (PB)</sub>
+
 </div>
